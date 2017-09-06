@@ -1,0 +1,303 @@
+    1  ls G
+    2  ls ~G
+    3  ls -G
+    4  ls ~
+    5  xcode-select --install
+    6  xcode-select --install
+    7  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    8  brew analytics off
+    9  brew help
+   10  clear
+   11  brew install bash
+   12  echo '/usr/local/bin/bash' | sudo tee - a / etc/shells
+   13  echo '/usr/local/bin/bash' | sudo tee -a / etc/shells
+   14  chsh -s /usr/local/bin/bash
+   15  bash -version
+   16  whoami
+   17  curl -fsSL https://git.io/v50Ta | ruby
+   18  ls 
+   19  curl -fsSL https://git.io/v50Ta | ruby
+   20  bash help 
+   21  help bash
+   22  info bash
+   23  -bash
+   24  -bash: shopt
+   25  clear 
+   26  brew install bash
+   27  bash -version
+   28  cat /etc/shells
+   29  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+   30  chsh -s /usr/local/bin/bash
+   31  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+   32  chsh -s /usr/local/bin/bash
+   33  cat /etc/shells
+   34  brew install git
+   35  git --version
+   36  brew install bash-completion
+   37  curl -fsSL https://git.io/v504A | ruby
+   38  git --version
+   39  brew install bash-completion
+   40  curl -fsSL https://git.io/v504A | ruby
+   41  git config --global user.name 'YOUR NAME'
+   42  git config --global user.name 'Erica Yoshimoto'
+   43  git config --globa user.email yomoto@amazon.com
+   44  git config --list
+   45  curl -fsSL https://git.io/v500H | sh
+   46  git config --list
+   47  jave -version
+   48  java -version
+   49  clear 
+   50  sudo nvram SystemAudioVolume=%80
+   51  sudo nvram SystemAudioVolume=%80
+   52  ls -c
+   53  ls -G
+   54  ls -G
+   55  ls -hl
+   56  ls -lh
+   57  ls -i
+   58  clear 
+   59  ls -m
+   60  ls -p
+   61  ls -s
+   62  ls -t
+   63  ls -T
+   64  ls -lT
+   65  ls -R
+   66  ls -s
+   67  ls -R
+   68  clear
+   69  whoami
+   70  pwd
+   71  ls
+   72  ls ~
+   73  ls /yomoto
+   74  ls /User/yomoto
+   75  ls /Users/yomoto
+   76  ls /Users/yomoto/
+   77  ls /yomoto/
+   78  pwd
+   79  open .
+   80  cd desktop
+   81  open .
+   82  ll
+   83  ll
+   84  cd .
+   85  ll
+   86  cd /Users/yomoto
+   87  ll
+   88  ls -hal
+   89  la
+   90  man ls
+   91  man cd
+   92  help cd
+   93  man cd
+   94  env
+   95  clear 
+   96  env
+   97  echo $PATH
+   98  echo $EDITOR
+   99  nano ~/.bash_profile
+  100  cat ~/.bash_profile
+  101  nano ~/.bash_profile
+  102  cat ~/.bash_profile
+  103  brew install tree
+  104  echo $EDITOR
+  105  echo $PATH
+  106  brew install tree
+  107  brew install tree
+  108  clear 
+  109  brew install tree
+  110  tree -L 1
+  111  cd /
+  112  ll
+  113  ll /Applications/
+  114  open Applications/
+  115  open Applications/Amazon Chime
+  116  open Applications/Amazon \Chime.app/Contents/
+  117  ll Applications/Amazon \Chime.app/Contents/
+  118  clear 
+  119  open Applications/
+  120  ll
+  121  ll ~/Applications/
+  122  open Library/
+  123  open Users/
+  124  open Volumes/
+  125  open Network/
+  126  open bin/
+  127  open home/
+  128  open etc/
+  129  open tmp/
+  130  open usr/
+  131  open etc/
+  132  cd ..
+  133  cd ../..
+  134  Users $la
+  135  cd ..
+  136  clear 
+  137  cd ~
+  138  cd /
+  139  cd Users/yomoto/
+  140  ls
+  141  ../
+  142  la
+  143  cd ~
+  144  cd../
+  145  cd ../
+  146  clear 
+  147  cd ~
+  148  Root directory
+  149  cd ..
+  150  ../..
+  151  clear 
+  152  pwd
+  153  PWD
+  154  clear 
+  155  cd ..
+  156  cd ~
+  157  pwd 
+  158  .. /..
+  159  ../..
+  160  pwd
+  161  clear 
+  162  cd ~/Documents/../
+  163  cd ..
+  164  ..
+  165  ..
+  166  pwd
+  167  cd
+  168  pwd
+  169  ..
+  170  pwd
+  171  ls
+  172  clear 
+  173  cd - 
+  174  cd +
+  175  cd ..
+  176  cd
+  177  cd -
+  178  cleara 
+  179  clear 
+  180  cd 
+  181  clear 
+  182  pwd 
+  183  cd agentx/
+  184  clear 
+  185  cd /Volumes/
+  186  cd /Volumes
+  187  ll
+  188  cd
+  189  ll
+  190  cd 
+  191  mkdir ~/Projects
+  192  cd Projects/
+  193  mkdir week01
+  194  ls
+  195  cd /week01
+  196  cd ~/week01
+  197  cd week01
+  198  clear 
+  199  pwd
+  200  cd week01/
+  201  pwd
+  202  echo $?
+  203  mkdir notebook
+  204  cd notebook/
+  205  touch notes.txt
+  206  ll
+  207  cat notes.txt
+  208  nano
+  209  cd /Projects/week01
+  210  cd ~/Projects
+  211  ls
+  212  cd week01
+  213  clear 
+  214  ls
+  215  notebook 
+  216  mv notes.txt commands.txt
+  217  ls
+  218  ll
+  219  nano
+  220  cat commands
+  221  cat notes
+  222  ll
+  223  clear 
+  224  cat notes
+  225  touch notes.txt
+  226  nanon
+  227  nano
+  228  cat notes
+  229  cat notes.txt
+  230  mv notes my\ notes
+  231  mv notes.txt  my\ notes.txt
+  232  ls
+  233  ll
+  234  mv my\ notes.txt notes 
+  235  ll
+  236  nano
+  237  mv notes notes.txt
+  238  ll
+  239  nano
+  240  cat notes.txt
+  241  clear 
+  242  ll
+  243  rm Y
+  244  ll
+  245  nano
+  246  man rmdir
+  247  nano
+  248  rmdir notes
+  249  rmdir notebook
+  250  man rmdir
+  251  rm notebook
+  252  pwd
+  253  rm -r notebook
+  254  rm -r notebook/
+  255  cd -- ..
+  256  rm -r notebook/
+  257  ll
+  258  ll
+  259  mkdir notebook
+  260  touch notes.txt
+  261  ll
+  262  nano
+  263  cat notes.txt
+  264  clear 
+  265  cd ..
+  266  pwd
+  267  ll
+  268  cd week01/
+  269  ll
+  270  cd notebook/
+  271  ll
+  272  mkdir -p bash/nano
+  273  ll
+  274  man mkdir
+  275  cd bash/
+  276  ll
+  277  history 
+  278  clear
+  279  cd
+  280  clear
+  281  histor
+  282  history
+  283  history 172
+  284  history 172
+  285  history 10
+  286  history 278!
+  287  history clear
+  288  clear
+  289  pwd
+  290  ll
+  291  cd Projects/week01/notebook/
+  292  ll
+  293  history > commands.txt
+  292  ll
+  293  history > commands.txt
+  294  ll
+  295  nano
+  296  ll
+  297  man ls
+  298  cd 
+  299  cd Projects/week01/notebook
+  300  ll
+  301  history 10 >> commands.txt
