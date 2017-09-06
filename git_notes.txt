@@ -1,0 +1,18 @@
+# add to staging area
+git add <filename>
+
+# look at staging area 
+git status
+
+# look at staging area 
+git st 
+
+# COMMIT whatever is in the staging area
+git commit -m "NOTE"
+
+# condensed history of commits 
+git ll 
+
+# complete history of commits 
+git la
+
