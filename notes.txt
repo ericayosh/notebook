@@ -1,0 +1,30 @@
+
+# make directory
+mkdir<dir>
+
+# update a file or create a file
+touch <file>
+
+# read a file
+cat <file>
+
+# copy a file
+cp <file>
+
+# rename a file
+mv <old file> <new file>
+
+#remove a file
+rm <file>
+
+#remove a directory
+# you cannot be in the directory that you are trying to remove
+rm -r <dir>
+
+#to remove EMPTY directories 
+Rmdir
+
+
+DO NOT do, it will remove EVERYTHING from your computer, or the directory that you are in:
+rm -r * 
+rm -fr *
